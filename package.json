@@ -2,7 +2,7 @@
     "name": "highradius-react-extensions",
     "displayName": "Highradius React Extensions",
     "description": "An Extension Pack for doing all the necessary Highradius Projects in React or Javascript",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "sdc224",
     "galleryBanner": {
         "color": "#4a6370",
@@ -16,12 +16,17 @@
     ],
     "keywords": [
         "extension-pack",
-        "vscode"
+        "vscode",
+        "highradius"
     ],
     "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/sdc224/highradius-react-extensions.git"
+    },
+    "homepage": "https://github.com/sdc224/highradius-react-extensions",
+    "bugs": {
+        "url": "https://github.com/sdc224/highradius-react-extensions/issues"
     },
     "extensionPack": [
         "aaron-bond.better-comments",
@@ -39,6 +44,7 @@
         "eg2.vscode-npm-script",
         "esbenp.prettier-vscode",
         "HookyQR.JSDocTagComplete",
+        "jasonnutter.search-node-modules",
         "mgmcdermott.vscode-language-babel",
         "ms-vscode.vs-keybindings",
         "msjsdiag.debugger-for-chrome",

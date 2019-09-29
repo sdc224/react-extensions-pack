@@ -19,3 +19,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 9. HTML CSS Extensions are also available
 10. All necessary Settings
 11. Settings Sync is also available
+
+-   Version 0.2.0
+
+1. Added Node Modules Search Extension
+2. Support for Settings
