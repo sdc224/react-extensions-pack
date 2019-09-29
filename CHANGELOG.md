@@ -18,3 +18,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 8. EsLint and Prettier as well
 9. HTML CSS Extensions are also available
 10. All necessary Settings
+11. Settings Sync is also available

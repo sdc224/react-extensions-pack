@@ -1,6 +1,6 @@
 {
     "name": "highradius-react-extensions",
-    "displayName": "Highradius-React-Extensions",
+    "displayName": "Highradius React Extensions",
     "description": "An Extension Pack for doing all the necessary Highradius Projects in React or Javascript",
     "version": "0.0.1",
     "publisher": "sdc224",
@@ -19,6 +19,10 @@
         "vscode"
     ],
     "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sdc224/highradius-react-extensions.git"
+    },
     "extensionPack": [
         "aaron-bond.better-comments",
         "abusaidm.html-snippets",
