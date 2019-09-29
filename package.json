@@ -1,0 +1,51 @@
+{
+    "name": "highradius-react-extensions",
+    "displayName": "Highradius-React-Extensions",
+    "description": "An Extension Pack for doing all the necessary Highradius Projects in React or Javascript",
+    "version": "0.0.1",
+    "publisher": "sdc224",
+    "galleryBanner": {
+        "color": "#4a6370",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "extension-pack",
+        "vscode"
+    ],
+    "icon": "icon.png",
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "abusaidm.html-snippets",
+        "akamud.vscode-javascript-snippet-pack",
+        "avraammavridis.vsc-react-documentation",
+        "burkeholland.simple-react-snippets",
+        "christian-kohler.npm-intellisense",
+        "cmstead.jsrefactor",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets",
+        "dzannotti.vscode-babel-coloring",
+        "eamodio.gitlens",
+        "ecmel.vscode-html-css",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "HookyQR.JSDocTagComplete",
+        "mgmcdermott.vscode-language-babel",
+        "ms-vscode.vs-keybindings",
+        "msjsdiag.debugger-for-chrome",
+        "NuclleaR.vscode-extension-auto-import",
+        "PKief.material-icon-theme",
+        "sburg.vscode-javascript-booster",
+        "Shan.code-settings-sync",
+        "skyran.js-jsx-snippets",
+        "stevencl.addDocComments",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "wix.vscode-import-cost",
+        "xabikos.JavaScriptSnippets"
+    ]
+}
