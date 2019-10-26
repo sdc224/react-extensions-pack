@@ -14,7 +14,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "autoimport.filesToScan": "**/*.{js,jsx}",
-    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreview": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "javascript.suggestionActions.enabled": false,
     "typescript.disableAutomaticTypeAcquisition": false,

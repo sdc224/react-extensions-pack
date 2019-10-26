@@ -3,6 +3,7 @@
     "displayName": "Highradius React Extensions",
     "description": "An Extension Pack for doing all the necessary Highradius Projects in React or Javascript",
     "version": "0.0.2",
+    "private": true,
     "publisher": "sdc224",
     "galleryBanner": {
         "color": "#4a6370",
@@ -45,6 +46,7 @@
         "esbenp.prettier-vscode",
         "HookyQR.JSDocTagComplete",
         "jasonnutter.search-node-modules",
+        "kisstkondoros.vscode-codemetrics",
         "mgmcdermott.vscode-language-babel",
         "ms-vscode.vs-keybindings",
         "msjsdiag.debugger-for-chrome",
