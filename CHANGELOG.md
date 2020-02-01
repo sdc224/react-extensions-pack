@@ -6,7 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
--   Initial release
+- Initial release
 
 1. Support for Javascript, ES6 and JSX Extension
 2. Extensions for React
@@ -20,17 +20,23 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 10. All necessary Settings
 11. Settings Sync is also available
 
--   Version 0.2.0
+- Version 0.2.0
 
 1. Added Node Modules Search Extension
 2. Support for Settings
 
--   Version 1.0.0
+- Version 1.0.0
 
 1. Changed package.json
 2. Added MIT License
 3. Added scripts in package.json
 
--   Version 1.0.1, 1.0.2
+- Version 1.0.1, 1.0.2
 
 1. Changed LOGO
+
+- Version 1.0.3
+
+1. Added EditorConfig
+2. Deleted Settings Sync
+3. Updated Settings

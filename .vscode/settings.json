@@ -1,5 +1,4 @@
 {
-    "sync.gist": "d7a5810af1413f2e8bf00e8536b7c124",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "editor.formatOnPaste": true,
@@ -21,10 +20,14 @@
     "workbench.statusBar.visible": true,
     "workbench.iconTheme": "material-icon-theme",
     "window.zoomLevel": 0,
-    "prettier.tabWidth": 4,
     "git.autofetch": true,
     "terminal.integrated.rendererType": "dom",
     "[jsonc]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "diffEditor.ignoreTrimWhitespace": true
 }
