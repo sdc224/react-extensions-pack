@@ -1,9 +1,8 @@
 {
-    "name": "highradius-react-extensions",
-    "displayName": "Highradius React Extensions",
-    "description": "An Extension Pack for doing all the necessary Highradius Projects in React or Javascript",
-    "version": "0.0.2",
-    "private": true,
+    "name": "react-extensions-pack",
+    "displayName": "React Extensions Pack",
+    "description": "An Extension Pack for doing Projects in React or Javascript",
+    "version": "1.0.0",
     "publisher": "sdc224",
     "galleryBanner": {
         "color": "#4a6370",
@@ -18,16 +17,29 @@
     "keywords": [
         "extension-pack",
         "vscode",
-        "highradius"
+        "react"
     ],
     "icon": "icon.png",
+    "author": {
+        "email": "sourodeep224@outlook.com",
+        "name": "Sourodeep Chatterjee",
+        "url": "https://github.com/sdc224"
+    },
+    "contributors": [
+        {
+            "email": "sourodeep224@outlook.com",
+            "name": "Sourodeep Chatterjee",
+            "url": "https://github.com/sdc224"
+        }
+    ],
+    "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sdc224/highradius-react-extensions.git"
+        "url": "https://github.com/sdc224/react-extensions-pack.git"
     },
-    "homepage": "https://github.com/sdc224/highradius-react-extensions",
+    "homepage": "https://github.com/sdc224/react-extensions-pack",
     "bugs": {
-        "url": "https://github.com/sdc224/highradius-react-extensions/issues"
+        "url": "https://github.com/sdc224/react-extensions-pack/issues"
     },
     "extensionPack": [
         "aaron-bond.better-comments",
