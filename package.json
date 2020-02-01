@@ -2,7 +2,7 @@
     "name": "react-extensions-pack",
     "displayName": "React Extensions Pack",
     "description": "An Extension Pack for doing Projects in React or Javascript",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "sdc224",
     "galleryBanner": {
         "color": "#4a6370",
@@ -19,7 +19,7 @@
         "vscode",
         "react"
     ],
-    "icon": "icon.png",
+    "icon": "icon.jpeg",
     "author": {
         "email": "sourodeep224@outlook.com",
         "name": "Sourodeep Chatterjee",
