@@ -30,3 +30,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 1. Changed package.json
 2. Added MIT License
 3. Added scripts in package.json
+
+-   Version 1.0.1, 1.0.2
+
+1. Changed LOGO
