@@ -24,3 +24,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 1. Added Node Modules Search Extension
 2. Support for Settings
+
+-   Version 1.0.0
+
+1. Changed package.json
+2. Added MIT License
+3. Added scripts in package.json
