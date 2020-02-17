@@ -2,7 +2,7 @@
   "name": "react-extensions-pack",
   "displayName": "React Extensions Pack",
   "description": "An Extension Pack for doing Projects in React or Javascript",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "sdc224",
   "galleryBanner": {
     "color": "#4a6370",
@@ -67,7 +67,6 @@
     "sburg.vscode-javascript-booster",
     "skyran.js-jsx-snippets",
     "stevencl.addDocComments",
-    "VisualStudioExptTeam.vscodeintellicode",
     "wix.vscode-import-cost",
     "xabikos.JavaScriptSnippets"
   ]

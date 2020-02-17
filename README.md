@@ -27,10 +27,9 @@ Available extensions are:
 11. Gitlens
 12. Code Metrics
 13. Debugger for Chrome
-14. VSCode Intellicode
-15. Import Cost
-16. Powered by Material Icon Theme
-17. Available with Visual Studio 2017/2019 Keybindings
+14. Import Cost
+15. Powered by Material Icon Theme
+16. Available with Visual Studio 2017/2019 Keybindings
 
 ## Pull Requests
 
