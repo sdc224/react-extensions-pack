@@ -4,8 +4,10 @@ An extension pack containing all the extensions for developing React Projects in
 
 ## Installation
 
+Open `Search Files by name` or Press `Ctrl+P`, then type
+
 ```
-ext install EditorConfig
+ext install react extensions pack
 ```
 
 Alternatively, you can search in VSCode Extensions window by typing react-extensions-pack, or by opening Command Pallette
