@@ -48,3 +48,12 @@ All notable changes to the "react-extensions-pack" will be documented in this fi
 - ### Version 1.0.5
 
 1. Deleted Microsoft Intellicode
+
+- ### Version 1.1.0
+
+1. Updated License
+2. Updated Readme
+
+- ### Version 1.1.1
+
+1. Updated Changelog
