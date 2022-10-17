@@ -2,7 +2,7 @@
   "name": "react-extensions-pack",
   "displayName": "React Extensions Pack",
   "description": "An Extension Pack for doing Projects in React or Javascript",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "publisher": "sdc224",
   "galleryBanner": {
     "color": "#4a6370",
@@ -45,9 +45,11 @@
     "aaron-bond.better-comments",
     "akamud.vscode-javascript-snippet-pack",
     "avraammavridis.vsc-react-documentation",
+    "bierner.markdown-checkbox",
     "burkeholland.simple-react-snippets",
     "christian-kohler.npm-intellisense",
     "cmstead.jsrefactor",
+    "darkriszty.markdown-table-prettify",
     "dbaeumer.vscode-eslint",
     "dsznajder.es7-react-js-snippets",
     "dzannotti.vscode-babel-coloring",
@@ -59,15 +61,19 @@
     "HookyQR.JSDocTagComplete",
     "jasonnutter.search-node-modules",
     "kisstkondoros.vscode-codemetrics",
+    "mdickin.markdown-shortcuts",
     "mgmcdermott.vscode-language-babel",
     "ms-vscode.vs-keybindings",
-    "msjsdiag.debugger-for-chrome",
     "NuclleaR.vscode-extension-auto-import",
     "PKief.material-icon-theme",
+    "ritwickdey.LiveServer",
     "sburg.vscode-javascript-booster",
     "skyran.js-jsx-snippets",
     "stevencl.addDocComments",
+    "streetsidesoftware.code-spell-checker",
+    "styled-components.vscode-styled-components",
     "wix.vscode-import-cost",
-    "xabikos.JavaScriptSnippets"
+    "xabikos.JavaScriptSnippets",
+    "yzhang.markdown-all-in-one"
   ]
 }
