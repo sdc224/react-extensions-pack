@@ -2,7 +2,7 @@
   "name": "react-extensions-pack",
   "displayName": "React Extensions Pack",
   "description": "An Extension Pack for doing Projects in React or Javascript",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "sdc224",
   "galleryBanner": {
     "color": "#4a6370",
@@ -15,9 +15,11 @@
     "Extension Packs"
   ],
   "keywords": [
+    "react",
+    "extension",
+    "pack",
     "extension-pack",
-    "vscode",
-    "react"
+    "vscode"
   ],
   "icon": "icon.jpeg",
   "author": {
